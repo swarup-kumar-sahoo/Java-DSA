@@ -6,6 +6,6 @@ Daily DSA Problem
 
 ## Solved Problems
 
-- [Reverse Array](https://reactnative.dev/)
-- [Remove Duplicate Sorted Array](https://reactnavigation.org/)   
+- [Reverse Array](https://github.com/swarup-kumar-sahoo/Java-DSA/blob/main/ReverseArray.java)
+- [Remove Duplicate Sorted Array](https://github.com/swarup-kumar-sahoo/Java-DSA/blob/main/RemoveDuplicateArray.java)   
 ---
