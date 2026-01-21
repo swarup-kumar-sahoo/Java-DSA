@@ -1,3 +1,7 @@
+package Array;
+
+
+
 /////////////////// My Approach //////////////////////////////
 
 // import java.util.Arrays;
