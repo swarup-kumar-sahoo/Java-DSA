@@ -2,7 +2,7 @@
 // import java.lang.annotation.Target;
 // import java.util.*;
 
-// public class lc_1{
+// public class TwoSumProblem{
 
 //     public static int[] twoSum(int[] arr, int target){
 
@@ -36,7 +36,7 @@
 
 import java.util.Arrays;
 
-public class lc_1{
+public class TwoSumProblem{
 
     public static int[] twoSum(int[] arr, int target){
 
